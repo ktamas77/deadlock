@@ -1,5 +1,5 @@
 Deadlock - a PC demo
-
+--------------------
 1995 (c) Tamas Kalman
 
 Languages used:
